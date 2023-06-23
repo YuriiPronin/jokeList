@@ -6,7 +6,7 @@ To add another random joke - press the ``add'' button, which appears when a joke
 
 "delete" button - deletes the selected joke
 
-"update" button - deletes the selected joke and writes a new one in its place.
+"refresh" button - deletes the selected joke and writes a new one in its place.
 
 Also, a check for duplicate jokes works everywhere (since the jokes are random - this can happen) and excludes additional ones
 
