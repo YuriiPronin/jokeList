@@ -1,0 +1,8 @@
+.card-actions {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.card:hover .card-actions {
+  opacity: 1;
+}
